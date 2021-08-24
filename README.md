@@ -1,6 +1,6 @@
 # MongoDB & Redis C#/.NET
-A program that can insert a record into MongoDB an Redis.
-I document here the implementation of the program and how everything is beeing added into both db.
+A program that can insert a record into MongoDB and Redis at the same time.
+I document here the implementation of the program and how everything is beeing added into both data base's.
 
 # Insert A record
 
