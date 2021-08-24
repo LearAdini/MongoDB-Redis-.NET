@@ -15,16 +15,16 @@ I document here the implementation of the program and how everything is beeing a
 
 
 # The Class's
-### ● MongoDBCRUD
+#### ● MongoDBCRUD
 
 ![mCRUD0](https://user-images.githubusercontent.com/80118008/130611270-f08d6401-cce2-464a-9d10-7a92e3c42456.PNG)
 
-### ● PersonModel
+#### ● PersonModel
 
 ![pERSONMODEL](https://user-images.githubusercontent.com/80118008/130611286-90df9d37-f40c-47f8-bfdc-bdfc19f637cc.PNG)
 
 
-### ● RedisOperations
+#### ● RedisOperations
 
 I will be calling everyting in one method called DoSome() becasue its roughly easier.
 
