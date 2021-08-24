@@ -1,16 +1,18 @@
 # MongoDB & Redis C#/.NET
 A program that can insert a record into MongoDB and Redis at the same time.
 I document here the implementation of the program and how everything is beeing added into both data base's.
+# __________________________________
 
 # Insert A record
-
 ![redis1](https://user-images.githubusercontent.com/80118008/130612914-b71cd475-85c3-427c-8681-156551e45f20.gif)
+
 # Inside MongoDB
-
 ![redis2](https://user-images.githubusercontent.com/80118008/130612959-ea1614c1-7a26-43ce-85bc-d19a0166e36e.gif)
-# Inside Redis
 
+# Inside Redis
 ![rediscli](https://user-images.githubusercontent.com/80118008/130612990-bd426538-9a13-4a63-a8a1-0b99c3e8d8de.gif)
+
+# __________________________________
 
 # The Class's
 **● MongoDBCRUD**
