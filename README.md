@@ -52,7 +52,8 @@ So the key is to the collection name "users" adding before the recordKey(randoma
 
 #### (Full Function Page)
 
-![redisclass1](https://user-images.githubusercontent.com/80118008/130612865-5161e196-1eae-47e8-992c-1b079479721c.PNG)
+![redisclass1](https://user-images.githubusercontent.com/80118008/130623665-2e63e173-7bbe-4ff4-9890-9202db0668ac.PNG)
+
 
 
 
