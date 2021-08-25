@@ -46,6 +46,7 @@ I create an instance from PersonModel called p and set the information.the Id is
 
 I insert the record by calling the InserRecord function which is used by the db instance I created from MongoDBCRUD, and the "table" name in this case is users (collection name) and the value which is the instance p where i setted all the information.
 I insert the record into Redis by calling StringSet function whic is used by dbredis instance that I created from Idabase interface which is getting the redis db.
+
 ![ir](https://user-images.githubusercontent.com/80118008/130612803-04dea1bb-f4d2-492b-9735-97ec571b7265.png)
 
 So the key is to the collection name "users" adding before the recordKey(randomator_) so I could find easily the key by the id number, and I insert the records of p instance.
